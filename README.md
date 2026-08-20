@@ -81,3 +81,5 @@ User → Oracle APEX → AI Agent → AI Tools → Oracle Database → AI Respon
 This project is designed for hospital administrative and operational
 analytics only. It does not provide medical diagnosis, clinical
 decision support, or treatment recommendations.
+
+This project used synthetic/made-up date, it doesn't have any similarities to any person 
